@@ -1,0 +1,22 @@
+[200~This is the new file
+ new file firstchanges
+
+  stash changes
+
+   
+    This is the new file
+     new file firstchanges
+
+      stash changes
+       
+         new file firstchanges
+
+	  stash changes
+
+	   
+	    This is the new file
+	     new file firstchanges
+	      stash changes
+	      :WQ
+	      :wq
+
